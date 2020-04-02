@@ -1,5 +1,5 @@
-# Client app to call covid-19-api
+# R Client for covid-19-api family
 
-## Client
+## Project Specification
 
-## Server
+## Server information
